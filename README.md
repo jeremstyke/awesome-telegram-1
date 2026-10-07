@@ -148,6 +148,7 @@
   - __[Gamee](https://t.me/gamee)__ : _Play tons of addictive games without installing any additional apps._
   - __[Chess Bot](https://t.me/ChessBot)__ : _Play chess with Telegram Chessbot._
   - __[DnD5Char](https://t.me/dnd5char_bot)__ : _Create and manage D&D 5e characters in Russian, with a Mini App character sheet._
+  - __[Daily Score](https://t.me/DailyScorefootbot/play?startapp=src_github)__ : _Guess the score of the big football match of the day and climb the leaderboard with your friends._
   
   ### Group Manager Bots
   
